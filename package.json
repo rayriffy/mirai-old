@@ -34,6 +34,7 @@
     "@tailwindcss/typography": "^0.4.0",
     "@zeit/next-workers": "^1.0.0",
     "dayjs": "^1.10.4",
+    "firebase": "^0.900.25",
     "lodash": "^4.17.21",
     "markdown-to-jsx": "^7.1.2",
     "next": "^10.1.3",
@@ -45,10 +46,12 @@
     "preact-render-to-string": "^5.1.19",
     "react": "npm:@preact/compat",
     "react-dom": "npm:@preact/compat",
+    "react-icons": "^4.2.0",
     "react-ssr-prepass": "npm:preact-ssr-prepass",
     "storeon": "^3.1.4",
     "swr": "^0.5.5",
     "tailwindcss": "^2.1.1",
+    "webpack": "^5.33.2",
     "worker-loader": "^3.0.8"
   },
   "devDependencies": {

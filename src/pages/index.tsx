@@ -2,7 +2,7 @@ import React from 'react'
 
 import { NextPage } from 'next'
 
-import { ArrowRightIcon } from '@heroicons/react'
+import { ArrowRightIcon } from '@heroicons/react/outline'
 
 const Page: NextPage = props => {
   return (
